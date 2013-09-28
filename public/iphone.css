@@ -1,0 +1,10 @@
+#header, #main
+{
+	padding-left:1em;
+	padding-right:1em;
+}
+
+.content
+{
+	width:100%;
+}
